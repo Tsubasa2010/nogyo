@@ -1,7 +1,7 @@
 body{
 	background-image:url("top.jpg") ;
 	background-size:cover;                 
-    	width:100%;                             
+    	width:100;                             
 	background-repeat: no-repeat; 
 	font-family: impact;
 	background-attachment: fixed;
@@ -62,13 +62,13 @@ li {
 	width: 1000px;
 	color: white;
 	font-size: 30pt;
-	line-height:300%;//sŠÔ
+	line-height:300%;//ÂsÅ Ã”
 	ward-wrap:break-word;
 }
 #wrapper {
     height: 100%;
     min-height: 100%;
-    position: relative;/*©‘Š‘ÎˆÊ’u*/
+    position: relative;/*ÂÂ©â€˜Å â€˜ÃË†ÃŠâ€™u*/
      padding-bottom:0px;
 box-sizing: border-box;
 }
